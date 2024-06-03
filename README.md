@@ -27,3 +27,9 @@ pip install transformers
 pip install language-tool-python
 pip install spacy
 python3.11 -m spacy download de_core_news_sm
+
+
+
+So kann man testen:
+python3.11 query5.py "Mitarbeitergewinnung"
+
