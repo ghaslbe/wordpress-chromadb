@@ -1,5 +1,5 @@
-# wordpress-chromadb
-finde gleiche Artikel 
+# finde gleiche wordpress Artikel mit chromadb
+finde gleiche Artikel um diese für SEO zu verlinken
 
 installiere jsonexport.php in wordpress und exportiere damit alle Posts
 
