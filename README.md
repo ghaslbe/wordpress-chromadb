@@ -1,4 +1,4 @@
-# finde gleiche wordpress Artikel mit chromadb
+# finde gleiche Wordpress Artikel mit chromadb
 finde gleiche Artikel um diese für SEO zu verlinken
 
 installiere jsonexport.php in wordpress und exportiere damit alle Posts. insert7 liest diese dann ein und schreibt diese in die chromaDB. query6 sucht dann ähnliche Artikel. 
